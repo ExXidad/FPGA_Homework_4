@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1703024030" />
+    <testcase name="test" classname="testbench" file="/Users/xidad/PycharmProjects/dds/nco_with_dither/testbench.py" lineno="27" time="3.4127259254455566" sim_time_ns="1012.001" ratio_time="296.5374372593005" />
+    <testcase name="test_sweep" classname="testbench" file="/Users/xidad/PycharmProjects/dds/nco_with_dither/testbench.py" lineno="95" time="6.084370851516724" sim_time_ns="111860.00099999999" ratio_time="18384.809823371517" />
+  </testsuite>
+</testsuites>

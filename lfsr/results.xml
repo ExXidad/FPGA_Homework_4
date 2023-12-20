@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1703017305" />
+    <testcase name="test" classname="testbench" file="/Users/xidad/PycharmProjects/dds/lfsr/testbench.py" lineno="26" time="188.77390432357788" sim_time_ns="1012.001" ratio_time="5.360915766542213" />
+  </testsuite>
+</testsuites>
