@@ -1,6 +1,6 @@
 # FPGA_Homework_4
 
-![](/Users/xidad/PycharmProjects/FPGA_Homework_4/imgs.png)
+![](imgs.png)
 
 ## LFSR
 ```verilog
