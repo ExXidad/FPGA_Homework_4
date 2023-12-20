@@ -35,6 +35,9 @@ end
 endmodule
 ```
 
+![](LFSR.png)
+![](LFSR1.png)
+
 ## NCO
 ```verilog
 module NCO(clk,
