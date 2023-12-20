@@ -221,3 +221,6 @@ async def test_sweep(dut):
     for freq in freq_list:
         await run_and_dump(dut, freq)
 ```
+
+## RTL
+![](rtl.jpg)
